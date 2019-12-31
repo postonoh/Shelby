@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "shelby",
+    "description": "360 Ecommerce Store.",
+    "slug": "shelby",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "facebookAppId": "2459978660942470",
+    "facebookScheme": "fb2459978660942470",
+    "facebookDisplayName": "360Vitailis",
+    "extra": {
+      "googleAppId": {
+        "ios": "987016992857-cfuvsmmu8l6iijs8p7pjuoimuuhi3eae.apps.googleusercontent.com",
+        "android": "987016992857-ee87t05mnaeaabvih3okqlhcdc2dfoh4.apps.googleusercontent.com "
+      }
+    }
+  }
+}

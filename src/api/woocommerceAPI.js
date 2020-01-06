@@ -1,6 +1,6 @@
 import WooCommerceAPI from 'react-native-woocommerce-api';
 
-var WooCommerceAPI = new WooCommerceAPI({
+var WooAPI = new WooCommerceAPI({
   url: 'https//www.360vitalis.com', // Your store URL
   ssl: false,
   consumerKey: 'ck_f6a0ca72b3e35875d7321a0ca0ed43ec7f41fa2a', // Your consumer secret
@@ -8,5 +8,9 @@ var WooCommerceAPI = new WooCommerceAPI({
   wpAPI: true, // Enable the WP REST API integration
   version: 'wc/v3', // WooCommerce WP REST API version
   queryStringAuth: true
-  
+
 });
+
+export default WooCommerceAPI = {
+  WooAPI,
+};

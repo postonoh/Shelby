@@ -1,4 +1,4 @@
-# Shelby 360 Eccommerce 
+# Shelby sample Eccommerce 
 
 
 React-Native

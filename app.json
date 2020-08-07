@@ -27,13 +27,13 @@
     "ios": {
       "supportsTablet": true
     },
-    "facebookAppId": "2459978660942470",
-    "facebookScheme": "fb2459978660942470",
+    "facebookAppId": "24599786609424701",
+    "facebookScheme": "fb24599786609424701",
     "facebookDisplayName": "360Vitailis",
     "extra": {
       "googleAppId": {
-        "ios": "987016992857-cfuvsmmu8l6iijs8p7pjuoimuuhi3eae.apps.googleusercontent.com",
-        "android": "987016992857-ee87t05mnaeaabvih3okqlhcdc2dfoh4.apps.googleusercontent.com "
+        "ios": "987016992857-cfuvsmmu8l6iijs8p7pjuoimuuhi3eae1.apps.googleusercontent.com",
+        "android": "987016992857-ee87t05mnaeaabvih3okqlhcdc2dfoh41.apps.googleusercontent.com "
       }
     }
   }

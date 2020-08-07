@@ -1,7 +1,7 @@
 import WooCommerceAPI from 'react-native-woocommerce-api';
 
 var WooAPI = new WooCommerceAPI({
-  url: 'https//www.360vitalis.com', // Your store URL
+  url: 'http://localhost:3000', // Your store URL
   ssl: false,
   consumerKey: 'ck_xxxxxx', // Your consumer secret
   consumerSecret: 'cs_xxxxxx', // Your consumer secret

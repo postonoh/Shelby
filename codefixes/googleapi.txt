@@ -1,9 +1,0 @@
-AIzaSyAQDVq06JaNZbcOFWWtO0gZf6Hwk62tJPk 
-
-
-
-987016992857-cfuvsmmu8l6iijs8p7pjuoimuuhi3eae.apps.googleusercontent.com 
-
-openssl rand -base64 32 | openssl sha1 -c
-
-b6:9c:42:28:25:f6:55:fa:f7:e4:48:72:5e:f1:a0:a7:e5:d4:9f:6f
